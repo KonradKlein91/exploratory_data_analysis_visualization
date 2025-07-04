@@ -1,0 +1,25 @@
+# Core data analysis packages
+pandas==2.1.4
+numpy==1.24.4
+
+# Data visualization packages
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.17.0
+
+# Statistical analysis
+scipy==1.11.4
+scikit-learn==1.3.2
+statsmodels==0.14.1
+
+# Jupyter for interactive analysis
+jupyter==1.0.0
+ipykernel==6.27.1
+
+# Data loading utilities
+openpyxl==3.1.2
+xlrd==2.0.1
+
+# Development tools
+black==23.12.1
+flake8==7.0.0
